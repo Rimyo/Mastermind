@@ -1,0 +1,7 @@
+Jeu Mastermind crée par Zhang Mingjie et Mesbahi Yacoub.
+
+Pour lancer le jeu Mastermind, suivez les étapes suivantes:
+    dans le terminal, tapez: make
+                             ./Mastermind
+Si le programme ne se lance pas, tapez dans le terminal: make clean
+puis répètez les étapes au dessus        
